@@ -1,0 +1,18 @@
+{
+  "name": "expressive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Program.fs.js",
+  "type": "module",
+  "scripts": {
+    "prestart": "dotnet fable",
+    "start": "node ./Program.fs.js"
+  },
+  "dependencies": {
+    "express": "~4.17.1",
+    "body-parser": "~1.19.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
