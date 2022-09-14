@@ -10,8 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Glutinum.BodyParser" Version="0.1.0-alpha-002" />
+    <PackageReference Include="Glutinum.BodyParser" Version="1.0.0" />
     <PackageReference Include="Glutinum.Express" Version="0.1.0-alpha-002" />
+    <PackageReference Include="Glutinum.RangeParser" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
